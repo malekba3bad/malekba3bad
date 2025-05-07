@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Malek Ba Abbad
 
-🎯 *Front-End Developer | React Enthusiast | UI/UX Lover | Technical Explorer*  
+🎯 *Front-End Developer | React | UI/UX | Technical Stuff*  
 📍 Hadhramaut, Yemen  
 💼 Web Developer at **Arab WareDos**
 
