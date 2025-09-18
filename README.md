@@ -64,7 +64,7 @@ Healthy diet system with doctor locator and weight loss tips.
 
 ## 🌱 Currently Learning
 
-- Next.js and advanced React features  
+- Laravel and advanced React features  
 - Performance optimization and accessibility best practices  
 - UI/UX design principles for better user engagement  
 
