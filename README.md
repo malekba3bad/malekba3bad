@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **front-end developer** with 2 years of experience creating clean, responsive, and accessible web interfaces. I thrive on crafting smooth user experiences using **React**, **JavaScript**, **HTML/CSS**, and modern UI frameworks. I love learning new technologies and turning ideas into reality through code.
+I'm a passionate **front-end developer** with 3 years of experience creating clean, responsive, and accessible web interfaces. I thrive on crafting smooth user experiences using **React**, **JavaScript**, **HTML/CSS**, and modern UI frameworks. I love learning new technologies and turning ideas into reality through code.
 
 ---
 
